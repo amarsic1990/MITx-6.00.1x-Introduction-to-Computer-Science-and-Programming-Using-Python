@@ -157,5 +157,4 @@ def hangman(secretWord):
 # secretWord while you're testing)
 
 #secretWord = chooseWord(wordlist).lower()
-secretWord = "c"
-hangman(secretWord)
+#hangman(secretWord)
